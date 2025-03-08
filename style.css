@@ -1,0 +1,11 @@
+p {
+    margin-left: 50px;
+    padding-top: 50px;
+    color: white;
+}
+
+div {
+    background-color: black;
+    height: 300px;
+    width: 300px;
+}
